@@ -1,7 +1,7 @@
-import Header from '../components/Header';
-import Hero from '../components/Hero';
-import Features from '../components/Features';
-import Footer from '../components/Footer';
+import Header from '../components/Header.mjs';
+import Hero from '../components/Hero.mjs';
+import Features from '../components/Features.mjs';
+import Footer from '../components/Footer.mjs';
 import Script from 'next/script';
 
 export default function Home() {

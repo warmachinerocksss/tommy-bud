@@ -1,5 +1,4 @@
-// app/dashboard/page.js - Analytics dashboard page
-import AnalyticsDashboard from '../../components/AnalyticsDashboard';
+import AnalyticsDashboard from '../../components/AnalyticsDashboard.mjs';
 
 export default function Dashboard() {
   return (
